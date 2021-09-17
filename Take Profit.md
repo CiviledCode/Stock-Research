@@ -1,0 +1,3 @@
+# Take Profit
+#notes
+

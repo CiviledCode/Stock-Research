@@ -1,0 +1,5 @@
+# ATTENTION
+
+**The content within this folder are purely my own analysis and opinions on a few markets. I am not giving financial advice, but instead I am showing an applicable market analysis process for other markets to increase the likelihood of creating accurate and useful predictions. Please take the information in here with a grain of salt, as I'm not a professional, nor do I possess the knowledge to make reproducible predictions in a given market. Use this for adaptation only.**
+
+With that being said, I may not have covered all the possible opportunities within a time period, as I only trade patterns I feel comfortable with and can recognize fairly easily. This gives you room to improve your own craft and learn how my strategy is unideal. Additionally, I may be slightly biased as a lot of the positions I take aren't on a real account, and are instead hypothetical positions I would take if I were looking at the market at the moment. I am learning more myself about the Stock Market, so these notes are more directed towards myself and only after am I focusing on 3rd party readability (formatting, better wording, etc.).
