@@ -1,6 +1,6 @@
 # Stocks
 #notes
-- Stocks are an aquirable asset 
+- Stocks are an acquirable constant portion of a company or entity sold for a [[Price Liquidity | liquidated price]]. You are acquiring a portion of the company, which in some cases gives benefits like voting on company affairs and in some cases, attending company events. 
 
 
 ***How do I make money from Stocks?***
@@ -26,6 +26,9 @@
 
 - Finding stocks to invest in is really down to personal intuition. Think from the consumer's point of view. Think of how the price could go up and how real world events could influence the price. Staying up with the news makes this process a lot easier.
 
+**So where does the money come from?**
+
+- Well, it's complicated. It really depends on 
 
 **How do I know what stocks to TRADE?**
 
@@ -46,8 +49,10 @@
 	- Don't sell a trade until it hits your desired [[Take Profit]]. Stay disciplined.
 	- Don't rush yourself into a trade. Sometimes you could go days without making a trade.
 	- Don't make risky trades on charts you've never traded on. You can't always assume a market will react to indications, so study a select few markets to start.
-	- Get other peoples advice. Even if it's just reading what other people are trading or taking advice from the news.
+	- Get other people's advice. Even if it's just reading what other people are trading or taking advice from the news.
 	- Think from the perspective of the smart traders working for big corporations. 
 
 - Now that you have ground rules established, you should begin with a paper wallet on tradingview. This will allow you to make risky trades and trust your gut with no real risk. Practice makes perfect, and I still use a paper wallet to this day when trading Crypto. It lets you try strategies you'd otherwise turn down.
+
+
 

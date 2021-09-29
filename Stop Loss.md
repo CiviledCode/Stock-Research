@@ -1,6 +1,6 @@
 # Stop Loss
 #notes 
-- A Stop Loss is a point in which you cut your losses on a trade to mitigate risk. This is basically a price point in which your assets will automatically sell themselves for a loss. The placement of your stop loss is equally important as your [[Take Profit]] or other values.
+- A Stop Loss is a point in which you cut your losses on a trade to mitigate risk. This is basically a price point in which your assets will automatically sell themselves for a loss. The placement of your stop loss is equally important as your [[Take Profit]] or other trigger values.
 
 <br>
 

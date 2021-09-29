@@ -42,3 +42,5 @@
 ![[Pasted image 20210917071106.png]]
 #success #ascending-triangle #short
 - Success on this trade. I would've liked to be more confident on the trade because I thought there was going to be another retest, but once I saw the line break through the EMA50 resistance area I knew it wouldn't retest that high since I know this Stock resists a lot on the EMA50. Took the short position for a .55% gain, which in the end only took around 40 minutes.
+
+## 9/22

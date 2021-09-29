@@ -34,3 +34,5 @@ T# Draftkings
 ![[DKNG_2021-09-15_09-19-16.png]]
 #entry #long 
 - This is the entry strategy I would've used on this trade. 1.5x risk and a stop set at the bottom of the bullish breakout. This gives me a good amount of room to maximize profit. Backtested 100x on $APPL with a 71% success rate.
+
+**I no longer trade DKNG**
