@@ -3,7 +3,7 @@
 
 
 ## Setting Up
-1. Download the repository to whatever location you'd like and extract the contents.
+1. Download the repository (Code->Download ZIP)
 2. Go to https://obsidian.md/ and download.
 3. Install Obsidian.
 4. Open Obsidian and click 'Open Vault'
